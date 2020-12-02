@@ -1,3 +1,5 @@
+<p>Note that the **DateTimeNumericRangeFormatElementEditable** class is obsolete in versions **20.2** and newer.</p>
+
 <!-- default file list -->
 *Files to look at*:
 
